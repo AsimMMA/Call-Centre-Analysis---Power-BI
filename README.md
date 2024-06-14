@@ -1,6 +1,7 @@
-# Call-Centre-Analysis---Power-BI
+# Call-Centre-Analysis-(Power BI)
 
 For this project, I work with a dataset provided by a call centre manager at PhonePay. Their goal is to gain transparency and insights from their call centre data. Specifically, they're looking for an accurate overview of long-term trends in customer and agent behaviour. Your task is to create a dashboard focusing on call centre trends, customer retention, and diversity and inclusion. This dashboard will serve as a basis for discussion with management.
+
 I divided this project into 3 tasks and created 3 separate dashboards, 
 Task 1: Call Centre Performance 
 Task 2: All customer profiles and Churned customer profiles 
